@@ -13,11 +13,12 @@ title : Alex's Blog
 tagline: Site Tagline
 author :
   name : Alex Huang
-  email : alex.huang AT gmail.com
-  github : xueyuan 
-  twitter : alexhuang
-  linkedin : ahuang
-  facebook : alexhuang131 
+  email : alex . huang AT gmail . com
+  github : xueyuan
+  twitter : ahuang
+  linkedin : alexhuang
+  facebook : alexhuang131
+  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
